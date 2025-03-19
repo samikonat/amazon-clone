@@ -1,14 +1,13 @@
+// import "./App.css";
 
-import './App.css'
+import Routing from "./Routing";
 
 function App() {
-
-
   return (
     <>
-   <h1>Amazon</h1>
+      <Routing />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
